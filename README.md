@@ -6,10 +6,12 @@
 
 • The client also can buy a gift voucher of wide associations that work with Splitit.
 
-הבעיה: 
+## הבעיה:
 קיימת אי נוחות של חווית המשתמש- קיימת רק אפשרות תשלום אחת שלא בהכרח נוחה לכולם, תשלום על ידי Credit Card. הדבר גורם לshoppers פוטנציאלים להיכנס לאתר, להגיע לעמוד הרכישה, לראות שיש להם אפשרות אחת בלבד לתשלום ולצאת מהאתר מבלי להשלים את הקנייה. מה שגורם להפסד לקוחות פוטנציאליים.
-הפתרון: 
+
+## הפתרון:
 מכאן הגיע הרעיון שלנו לפתור את הבעיה על ידי הוספת 3 אפשרויות תשלום נוספות:
+
 האפשרויות שהוספנו הן:
 1.	Google Pay- תשלום עם Google Pay, בעתיד יהיה אפשר לשלם דרך הנייד על ידי הצמדה למכשיר.
 כדי להוסיף את Goggle Pay ממשקנו את האתר עםAPI   של גוגל, ונעזרנו בJavaScript  + HTML .
@@ -29,5 +31,5 @@
 ![image](https://user-images.githubusercontent.com/74673812/142574934-a0dd1b84-26b1-4de1-8bf3-66238a8f4e72.png)
 
 
-Team Members: Yarden Tsaraf, Sagiv Mishaan, Liem Mazal, Kelly Susky, Amit Ben Basat, Bar Elimelech and Liel Denshferd.
+##Team Members: Yarden Tsaraf, Sagiv Mishaan, Liem Mazal, Kelly Susky, Amit Ben Basat, Bar Elimelech and Liel Denshferd.
 
