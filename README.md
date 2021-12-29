@@ -47,5 +47,5 @@
 
 
 
-## Team Members: Yarden Tsaraf, Sagiv Mishaan, Liem Mazal, Kelly Susky, Amit Ben Basat, Bar Elimelech and Liel Denshferd.
+## Team Members: Yarden Tsaraf, Sagiv Mishaan, Liem Mazal, Kely Sotsky, Amit Ben Basat, Bar Elimelech and Liel Denshferd.
 
